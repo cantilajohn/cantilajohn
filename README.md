@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b3137&height=220&section=header&text=Your%20Name%20or%20Quote&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">Namaste 🙏 I'm [Your Name]</h1>
+<h1 align="center">Namaste 🙏 I'm John Paul Cantila</h1>
 
 <p align="center">
   I'm currently pursuing a Bachelor's degree in <b>Computer Science</b>, actively working on improving my programming skills and exploring various areas of the tech industry. Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and full-stack software development.
