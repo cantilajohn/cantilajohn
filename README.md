@@ -1,27 +1,27 @@
-<!-- Terminal ASCII Fetch Header -->
+<!-- Terminal Fetch Header -->
 ```text
-        .yhmNmdhyy,                    ////++                     andrew@grant
-      .dmmMNMMNNNmmdhy.             :/+/:.`...-:////              ------------
-    ,hmNNNNNNNNNNNNNNNddh.        /-....`..........-:./           OS: "Windows 10, iOS"
-   hNNNNNMMNNNNNNNNNNMMNNNNmn    :.`.....................--:      Uptime: "19 years, 1 month, 6 days"
-  'hNNNNNMmmmmddddhhhdhhddmNMMMMN :``.........................:;   Host: "Rochester Institute of Technology (RIT)"
-  dNNNMmso++:///++oso+oossydNMMNy .---..`...`.:`..`...`--+...``   Kernel: "College of Electrical and Computer Engineering Technology"
-  hNNNd/........---:/+oooossmMMNd ````.+ossyhyyyso+osoo++/.-``    IDE: "IntelliJ IDEA 2020.3, PyCharm 2020.2"
-  'hNN+.+ssyyso:--/oyhhdhddhhMNNNh:```-ymmmmmmmdddhhysoooo++. -   Languages.CS: "Java, Python, JS, HTML, CSS"
-   mNNshosooyddyhydmmmddhhdmdNNN   `smds++/++ohddyo/::--:::``:    Languages.RL: "English, Spanish"
-   ddmoh--/+syysso/smddddhhyhhdmd   .+`:+oo/--/:/:/-...--::-.-``` Proficiencies: "Photoshop, Illustrator, Word, Excel"
-   'so:---:/+++/../ydhhyyssssddh   --. :ddys+/++oy+.----//::--.-  Certifications: "Microsoft Word 2013, WISE Financial Literacy"
-    o//`````...---./yyyysoooosd    +ohhdddhyyssymmy/-::://++++-:  Hobbies.Software:
-    yss-````..-///ohdysoo+oohh     oyyNNNNNmmddddmy///++ooo+-       - "Minecraft Modding (Java)"
-   hdmo:.'++::++oyhhdhdhyosym:     /++dNNNNmmdyyyyo:-/+oosoo::      - "iOS Jailbreaking (Logos, Objective-C)"
-    hmh+/..---.-/++osyyyysyddm     :-.ohmNmsshyysso/:::-:/o+/..   Hobbies.Hardware: "Overclocking, Undervolting"
-    'hdo+-`...:+ooossysysydm:       :.symmddmmdysso+///+/--.
-      o.:-....-//+syyyyyhd'          :-osdNmmmmhsooo++/+/--       Contact:
-     o-```.::ossosdddhhddh           /omhdmrmmdyys+/////:--       --------
-    d:`````./osyhdmmdhyy            /odNNNMmhho++o+---:--:        Email: "andrew.grant@mail.rit.edu"
-     d/.`````.-/osyyysssy.          :-hNNNNNMmmyo+/:-..-          Discord: "AndrewIsntCool#5829"
-       my:`````.-/osoooosssy        `.-ymNNNNNNmdyo+///+++
-         my:.....-//+oo+++oosm        ./hNNNNNNNmdyo+oooo+++
-           y/------///:::/sm           ./hmmmdysooossoo+.
-             ds/-..-..-od                `-+ydmmdmmddo-
-               mh+--:ohm                   `.:sddho:.
+           g@M%@%%@N%Nw,                  andrew@grant ----------------------------------------------------
+       ,M*'`|`*%gNM=]mM%g||%N,            . OS: .......................... Windows 10, Android 14, Linux
+      p!'  '! |''' ''|||jhlj%w            . Uptime: ......................... 22 years, 5 months, 29 days
+    ,@L  ' ,        ''!|j%M]%M            . Host: .................................. TTM Technologies, Inc.
+   ]j'  .,wp@pw,     '  '|'%Wg            . Kernel: ...... CAM (Computer Aided Manufacturing) Operator
+  /{||]@@@@@@@@@@pp.         ||||||       . IDE: .......................... IDEA 2023.3.2, VSCode 1.96.0
+ '`]@@@@@@@@@@@@@@p                       .
+ ,:]%%@@@@%%%%%%k%h  '*||mkr      *       . Languages.Programming: ..... Java, Python, JavaScript, C++
+   j%M'      |jkk'   ~nrn=|i      '       . Languages.Computer: ........ HTML, CSS, JSON, LaTeX, YAML
+ ! jrr*^              '"!  L'' :!         . Languages.Real: .......................... English, Spanish
+ j  lp;,.  /@ @@    ,;\nmy  "  ,~         .
+ i r @@@mmHM @@@@@  ^****M*,p  ;          . Hobbies.Software: .... Minecraft Modding, iOS Jailbreaking
+ |;@@@HHH]g@M%%%%%H,jmgpmb%  j            . Hobbies.Hardware: ............... Overclocking, Undervolting
+ ,;%%%%%k%@[,,n|;,j%%k |k%%k',            .
+  H|%%k%%%j%k||,,;j;!!'|%ij}@             - Contact -------------------------------------------------------
+ "djjmkL,"]] [,,,,wwxw;|#kjk              . Email.Personal: ....................... agrantnmac@gmail.com
+   %;%km%%%%M%M |%%jkkii|||[              . Email.Personal: ....................... andrew@grant.software
+    kjj%%kkkl!||||||j|||"                 . Email.Work: ..................... Andrew.Grant@ttmtech.com
+      |jm%H@@@b%%kkmk%i!,[                . LinkedIn: ....................................... Andrew6rant
+      @p|j%%%%jkk|||j*`;j[                . Discord: ........................................ andrew6rant
+      ]@@@g|'''      ,;j%k                .
+      @@@@@mgmp;,,,,:;jj%%k%              - GitHub Stats --------------------------------------------------
+     @@@@@@@@%kgki!jjjj%k%@ .             . Repos: ... 95 {Contributed: 133} | Stars: ............. 342
+ .^['' `%@@@@HH%b%k{illljkjj%%%; `,`      . Commits: .................. 2,116 | Followers: ......... 196
+=['    %HH%%%%H@gkilljjj%kk"'.     `i     . Lines of Code on GitHub: . 446,276 ( 523,178++,  76,902-- )
